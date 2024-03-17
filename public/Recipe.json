@@ -1,0 +1,89 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "spicy_chicken",
+        "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRAh-9F1qjUrdEpIqZnSA0E296L89IQetFdg&usqp=CAU",
+        
+        "short_description": "A fiery stir-fry bursting with flavors, perfect for spice lovers.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushrooms"
+        ],
+        "preparing_time": "30 min",
+        "calories": 320
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "margherita_pizza",
+        "recipe_image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/kohvqjiu/a19a51cf-e61a-478b-952b-11e6104f7d96.jpg",       
+        "short_description": "A timeless favorite with fresh tomatoes, basil, and mozzarella.",
+        "ingredients": [
+            "300 g pizza dough",
+            "200 g mozzarella cheese",
+            "150 g cherry tomatoes",
+            "Handful of fresh basil"
+        ],
+        "preparing_time": "25 min",
+        "calories": 280
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Creamy Mushroom Risotto",
+        "recipe_image": "https://www.eatingwell.com/thmb/N_0xtwSPPGe7L1YA7O8Uhxm9LfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MushroomRisotto-Beauty-2825-b89fc407ca374feb997e10db2854a2a7.jpg",
+        "short_description": "Indulge in the velvety goodness of this comforting Italian classic.",
+        "ingredients": [
+            "300 g Arborio rice",
+            "500 g mushrooms",
+            "1 onion",
+            "1 liter vegetable broth"
+        ],
+        "preparing_time": "40 min",
+        "calories": 380
+    },
+
+    {
+        "recipe_id": 4,
+        "recipe_name":"salad-with-dried-tomatoes" ,
+        "recipe_image":"https://img.freepik.com/premium-photo/healthy-delicious-food-form-quinoa-salad-with-dried-tomatoes_124507-61733.jpg?w=1060",
+        "short_description": "A burst of citrus and garlic elevate succulent shrimp to new heights.",
+        "ingredients": [
+            "500 g shrimp",
+            "4 cloves garlic",
+            "2 lemons",
+            "Handful of parsley"
+        ],
+        "preparing_time": "20 min",
+        "calories": 250
+    },
+
+    {
+        "recipe_id": 5,
+        "recipe_name": "Fresh Greek Salad",
+        "recipe_image": "https://images.squarespace-cdn.com/content/v1/5c8d51add74562eedd680e87/1596731920581-RZQ18MYO8SPT0QJVHBW3/keto-lemon-garlic-shrimp.jpg",
+        "short_description": "A vibrant medley of crisp vegetables, feta cheese, and olives drizzled with olive oil.",
+        "ingredients": [
+            "200 g cherry tomatoes",
+            "1 cucumber",
+            "100 g feta cheese",
+            "Handful of olives"
+        ],
+        "preparing_time": "15 min",
+        "calories": 180
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Hearty Vegetable Soup",
+        "recipe_image": "https://cdn.loveandlemons.com/wp-content/uploads/2014/10/vegetable-soup.jpg",
+        "short_description": "A comforting bowl of goodness packed with seasonal vegetables and fragrant herbs.",
+        "ingredients": [
+            "400 g mixed vegetables",
+            "1 onion",
+            "2 cloves garlic",
+            "1 liter vegetable broth"
+        ],
+        "preparing_time": "35 min",
+        "calories": 200
+    }
+]
